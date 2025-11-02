@@ -17,6 +17,7 @@ Here are some of the technologies I'm proficient in:
 ## Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-VxidDev.github.io-blue)](https://VxidDev.github.io/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/953675213315375106)
 
 ## GitHub Stats
 
