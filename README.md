@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Stanislav Kolesnikov!
 
-<!--
-**VxidDev/VxidDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer
 
-Here are some ideas to get you started:
+Just a developer with a passion for creating with Python. I enjoy turning ideas into reality through clean, efficient, and well-documented code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+Here are some of the technologies I'm proficient in:
+
+*   `Python`
+*   `C++`
+*   `CSS`
+*   `HTML`
+*   `Linux`
+
+## Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-VxidDev.github.io-blue)](https://VxidDev.github.io/)
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VxidDev&layout=compact&theme=vision-friendly-dark)
+
+![Stanislav Kolesnikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=VxidDev&show_icons=true&theme=vision-friendly-dark)
