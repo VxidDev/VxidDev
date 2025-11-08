@@ -13,6 +13,7 @@ Here are some of the technologies I'm proficient in:
 *   `CSS`
 *   `HTML`
 *   `Linux`
+*   `C`
 
 ## Connect with me
 
