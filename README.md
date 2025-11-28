@@ -12,7 +12,7 @@ Here are some of the technologies I'm proficient in:
 *   `C++`
 *   `CSS`
 *   `HTML`
-*   `Linux`
+*   `C#`
 *   `C`
 
 ## Connect with me
