@@ -1,9 +1,5 @@
 # Hi, I'm Stanislav Kolesnikov!
 
-## Python Developer
-
-Just a developer with a passion for creating with Python. I enjoy turning ideas into reality through clean, efficient, and well-documented code.
-
 ## My Skills
 
 Here are some of the technologies I'm proficient in:
