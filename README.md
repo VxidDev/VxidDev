@@ -1,5 +1,9 @@
 # Hi, I'm Stanislav Kolesnikov!
 
+<p align="center">
+  <img src="duck.jpg" alt="EduDuck banner" width="980" height="350">
+</p>
+
 ## My Skills
 
 Here are some of the technologies I'm proficient in:
