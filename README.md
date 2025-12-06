@@ -8,12 +8,11 @@
 
 Here are some of the technologies I'm proficient in:
 
-*   `Python`
+*   `Python and libraries like CustomTkinter, PyQt6, Flask, BS4, Selenium...`
 *   `C++`
-*   `CSS`
-*   `HTML`
 *   `C#`
 *   `C`
+*   `HTML , CSS`
 
 ## Connect with me
 
