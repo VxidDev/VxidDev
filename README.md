@@ -21,6 +21,4 @@ Here are some of the technologies I'm proficient in:
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VxidDev&layout=compact&theme=vision-friendly-dark)
-
-![Stanislav Kolesnikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=VxidDev&show_icons=true&theme=vision-friendly-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VxidDev&theme=tokyonight-duo)](https://git.io/streak-stats)
