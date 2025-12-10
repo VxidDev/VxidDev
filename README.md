@@ -1,4 +1,4 @@
-# Hi, I'm Stanislav Kolesnikov!
+# Hi, I like coding:]
 
 <p align="center">
   <img src="duck.jpg" alt="EduDuck banner" width="980" height="350">
