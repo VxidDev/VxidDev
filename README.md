@@ -22,3 +22,6 @@ Here are some of the technologies I'm proficient in:
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VxidDev&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+## LeetCode:]
+https://leetcode.com/u/VxidDev/
