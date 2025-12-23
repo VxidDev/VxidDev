@@ -1,27 +1,31 @@
-# Hi, I like coding:]
+## About Me
 
-<p align="center">
-  <img src="duck.jpg" alt="EduDuck banner" width="980" height="350">
-</p>
+Hi, I'm Void, a full-stack developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
+
+Creator of **_EduDuck_**.
 
 ## My Skills
 
-Here are some of the technologies I'm proficient in:
-
-*   `Python and libraries like CustomTkinter, PyQt6, Flask, BS4, Selenium...`
-*   `C++`
-*   `C#`
-*   `C`
-*   `HTML , CSS`
-
-## Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-VxidDev.github.io-blue)](https://VxidDev.github.io/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/953675213315375106)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VxidDev&theme=tokyonight-duo)](https://git.io/streak-stats)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=VxidDev&theme=dark&show_icons=true&count_private=true">
 
-## LeetCode:]
-https://leetcode.com/u/VxidDev/
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=VxidDev&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=VxidDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">Email: stas050595@gmail.com</p>
