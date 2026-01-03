@@ -29,3 +29,9 @@ Creator of **_EduDuck_**.
 ## Connect with me
 
 <p align="center">Email: stas050595@gmail.com</p>
+<p align="center">Discord: trainervoid</p>
+
+## Support Me <3
+
+<p align="center">Fiverr: @justvxid</p>
+<p align="center">Paypal: @VxidDev</p>
