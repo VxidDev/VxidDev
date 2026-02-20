@@ -1,22 +1,11 @@
 ## About Me
 
-Hi, I'm Void, a full-stack developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
-
-Creator of **_EduDuck_**.
+Hi, I'm Void, a software engineer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Assembly-x86_64-EA362F?logo=assembly&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/BeautifulSoup-4D97FF?logo=python&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Tkinter-4D97FF?logo=python&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square"> <img src="https://img.shields.io/badge/Git-FF712F?logo=git&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square">
+
 
 ## GitHub Stats
 
@@ -35,3 +24,12 @@ Creator of **_EduDuck_**.
 
 <p align="center">Fiverr: @justvxid</p>
 <p align="center">Paypal: @VxidDev</p>
+
+<p align="center">
+<a href="https://ko-fi.com/vxiddev"><img src="https://img.shields.io/badge/Ko_fi-F16061?style=flat-square" alt="Ko-fi"></a>
+</p>
+
+
+
+
+
