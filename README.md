@@ -26,7 +26,7 @@ Hi, I'm Void, a software engineer with a love for building scalable, user-friend
 <p align="center">Paypal: @VxidDev</p>
 
 <p align="center">
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41PS7XU)
+<a href="https://ko-fi.com/vxiddev"><img src="https://img.shields.io/badge/Ko_fi-F16061?style=flat-square" alt="Ko-fi"></a>
 </p>
 
 
