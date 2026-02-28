@@ -18,26 +18,18 @@ Discord Username: `trainervoid`
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7?style=for-the-badge&logo=render&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 
 ---
-
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VxidDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=VxidDev&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VxidDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
----
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=VxidDev&theme=dark&show_icons=true&count_private=true">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VxidDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=VxidDev&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=VxidDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VxidDev&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 
