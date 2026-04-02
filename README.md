@@ -9,6 +9,7 @@ Discord Username: `trainervoid`
 
 - Improved string protection system and fixed bugs for [PyLockWare](https://github.com/amogus-gggy/PyLockWare)
 - Overall help with development of improved [Nebula](https://github.com/vxiddev/Nebula) at [Repository](https://github.com/amogus-gggy/project-nebula) (farset-9241 is my alt account)
+- Helped fix issues for [AltAPI](https://github.com/amogus-gggy/altapi)
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-Add%20Me-blue?logo=discord&logoColor=white)](https://discord.com/users/Trainervoid) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stas050595@gmail.com)
