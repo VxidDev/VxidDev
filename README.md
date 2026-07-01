@@ -54,4 +54,4 @@ Open to Python & full-stack roles.
 
 ## Contact
 
-[stas050595@gmail.com](mailto:stas050595@gmail.com) · [Portfolio](https://vxiddev.github.io)
+[kolesnikov.stas@proton.me](mailto:kolesnikov.stas@proton.me) · [Portfolio](https://vxiddev.github.io)
